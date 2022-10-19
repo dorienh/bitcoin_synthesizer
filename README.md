@@ -9,12 +9,8 @@ The cryptocurrency market is highly volatile compared to traditional financial m
 
 If this code is useful to use, please cite the original paper: 
 
-  `@article{herremans4247684forecasting,
-  
-    title={Forecasting Bitcoin Volatility Spikes from Whale Transactions and Cryptoquant Data Using Synthesizer Transformer Models},
-    
-    author={Herremans, Dorien and Low, Kah Wee},
-    
-    journal={Available at SSRN 4247684}
-    
-  }`
+    @article{herremans4247684forecasting,
+      title={Forecasting Bitcoin Volatility Spikes from Whale Transactions and Cryptoquant Data Using Synthesizer Transformer Models},
+      author={Herremans, Dorien and Low, Kah Wee},
+      journal={Available at SSRN 4247684}   
+    }
