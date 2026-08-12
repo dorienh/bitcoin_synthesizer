@@ -10,7 +10,7 @@ This repository contains the code (models + weights) accompanying our paper, pub
 
 The cryptocurrency market is highly volatile compared to traditional financial markets. Hence, forecasting its volatility is crucial for risk management. In this paper, we investigate CryptoQuant data (e.g. on-chain analytics, exchange and miner data) and whale-alert tweets, and explore their relationship to Bitcoin's next-day volatility, with a focus on extreme volatility spikes. We propose a deep learning Synthesizer Transformer model for forecasting volatility. Our results show that the model outperforms existing state-of-the-art models when forecasting extreme volatility spikes for Bitcoin using CryptoQuant data as well as whale-alert tweets. We analysed our model with the Captum XAI library to investigate which features are most important. We also backtested our prediction results with different baseline trading strategies and the results show that we are able to minimize drawdown while keeping steady profits.
 
-![Bitcoing forecasting]((https://github.com/dorienh/bitcoin_synthesizer/blob/main/cryptoquant.png?raw=true)
+![Bitcoing forecasting](https://github.com/dorienh/bitcoin_synthesizer/blob/main/cryptoquant.png?raw=true)
 
 ## Repository structure
 
